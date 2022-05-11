@@ -2,7 +2,7 @@
     function setModifiedDate() {
 //   setModifiedDate by Ryan Baumann (https://ryanfb.github.io/etc/2020/04/27/last_modified_dates_for_github_pages_jekyll_posts.html)
 //   Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
-      if (document.getElementById('last-modified')) {
+      if (document.getElementById('last-updated')) {
         fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
           .then((response) => {
             return response.json();
@@ -10,7 +10,7 @@
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-modified').textContent = "Last Modified: " + modified;
+              document.getElementById('last-updated').textContent = "Updated: " + modified;
             }
           });
       }
