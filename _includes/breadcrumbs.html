@@ -1,0 +1,14 @@
+{%- if page.breadcrumbs != false -%}
+    <a href="{{ site.url }}/manual/">The Manual</a>
+
+    {%- if page.breadcrumb_1_title and page.breadcrumb_1_path -%}
+    > <a href="{{ site.url }}/{{page.breadcrumb_1_path}}">{{ page.breadcrumb_1_title }}</a>
+    {%- endif -%}
+
+    {%- if page.breadcrumb_2_title and page.breadcrumb_2_path -%}
+    > <a href="{{ site.url }}/{{page.breadcrumb_2_path}}">{{ page.breadcrumb_2_title }}</a>
+    {%- endif -%}
+
+    > {{ page.title }}
+    <br />
+{%- endif -%}
