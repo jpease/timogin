@@ -21,10 +21,10 @@ Despite its importance, interviewing is sometimes viewed as a nuisance or
 given little preparation. You stop the important work you're doing, get on a 
 call and talk. Perhaps you read some provided questions. How hard can it be?
 
-As it turns out, it can be pretty hard. How can we do better? A well documented 
-process is a good start. Good documentation makes it easier to train all 
-participants involved. But if you want them to be good at it, and you do want 
-them to be good at it, that will require coaching. 
+As you probably know, it can be pretty hard. How can we do better? A well 
+documented process is a good start. Good documentation makes it easier to train 
+all participants involved. But if you want them to be good at it, and you do 
+want them to be good at it, that will require coaching. 
 
 A clearly defined process, with staff trained to consistently follow it, allows 
 for objectivity and continual improvement.
