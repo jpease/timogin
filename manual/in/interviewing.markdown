@@ -61,6 +61,10 @@ Explain from the start what your overall process looks like. At each step
 remind them where they are now and what they can expect next.
 
 ## A Humane Approach
+The following sections provide sample questions. The intent is that they be
+tailored to your personal style and your organization's needs. The skilled
+interviewer will make the candidate feel like they're having a natural 
+conversation, while still covering the material in a consistent way.
 
   * [Manager Screen](/manual/in/screen/)
   * [Job Specific]()
