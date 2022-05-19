@@ -47,7 +47,8 @@ your time. If the person says something you find interesting, ask them about
 it.*
 
 4. **What experience would you like to get out of this job move?**  
-*If what they describe seems unrelated to the role they're applyi
+*Do their desires align with what the role is likely to offer? If a match 
+doesn't seem obvious, follow up questions are better than assumptions.*
 
     **Question Break**  
     I find this a good point to pause and ask myself, How are things going?
