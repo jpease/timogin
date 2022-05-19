@@ -6,8 +6,7 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     {%- include breadcrumbs.html -%}
-    <a href="https://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/blob/main/{{ page.path }}">Contributors</a>
-    | <span id='last-updated'/>
+    {%- include byline.html -%}
   </header>
 
   <div class="post-content">
