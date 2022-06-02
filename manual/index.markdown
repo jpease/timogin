@@ -21,8 +21,8 @@ byline: false
 * Onboarding
 
 ### 3. Performance Management
-* 1on1s
-* Quarterly reviews
+* [1on1s](/manual/performance/1on1s/)
+* [Quarterly reviews](/manual/performance/quarterly/)
 * Annual reviews
 * Giving feedback
 
