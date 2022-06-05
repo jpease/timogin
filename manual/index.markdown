@@ -22,8 +22,8 @@ byline: false
 
 ### 3. Performance Management
 * [1on1s](/manual/performance/1on1s/)
+* Monthly Checklist
 * [Quarterly reviews](/manual/performance/quarterly/)
-* Annual reviews
 * Giving feedback
 
 ### 4. When People Leave 
