@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Management is challenging.
-list_title: Updates
+list_title: Blog Posts
 ---
 
 ## Do you know what makes it easier?

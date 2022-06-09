@@ -129,5 +129,5 @@ There is no need to keep a 1on1 strictly business. In fact, discussing topics
 unrelated to work is a great idea. The risk is when those topics overshadow, or
 even cause the exclusion of, the important topics highlighted above.
 
-
-
+## Related Content
+* [Why are you rescheduling 1on1s?](/blog/2022/06/09/Why-Are-You-Rescheduling-1on1s)
