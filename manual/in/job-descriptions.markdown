@@ -34,11 +34,11 @@ descriptions drift out of alignment with reality it leads to anxiety, confusion,
 and/or indifference.
 
 ## Examples
-* [GitLab Handbook](https://about.gitlab.com/job-families/finance/corporate-controller/)  
+* [GitLab Handbook](https://about.gitlab.com/job-families/finance/corporate-controller/){:target="\_blank"}  
   While I linked to the Corporate Controller suite of roles, many others can be
   found here.  
 
-* [CareerLadders.dev](https://career-ladders.dev)  
+* [CareerLadders.dev](https://career-ladders.dev){:target="\_blank"}  
   These are most applicable to companies with technical roles.
 
 ## Related Topics
