@@ -25,7 +25,14 @@ each have:
 The key question I want to be able to answer for staff is, How do I get to the
 next level?
 
-Good examples can be found at [CareerLadders.dev](https://career-ladders.dev).
+## Examples
+* [GitLab Handbook](https://about.gitlab.com/job-families/finance/corporate-controller/)  
+  While I linked to the Corporate Controller suite of roles, many others can be
+  found here.  
+
+* [CareerLadders.dev](https://career-ladders.dev)  
+  These are most applicable to companies with technical roles.
+
 
 ## Related Topics
   * [Job Descriptions](/manual/in/job-descriptions/)

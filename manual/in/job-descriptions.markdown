@@ -33,6 +33,14 @@ Schedule regular reviews of job descriptions to maintain accuracy. When job
 descriptions drift out of alignment with reality it leads to anxiety, confusion, 
 and/or indifference.
 
+## Examples
+* [GitLab Handbook](https://about.gitlab.com/job-families/finance/corporate-controller/)  
+  While I linked to the Corporate Controller suite of roles, many others can be
+  found here.  
+
+* [CareerLadders.dev](https://career-ladders.dev)  
+  These are most applicable to companies with technical roles.
+
 ## Related Topics
 
   * [Titles and Career Ladders](/manual/performance/titles-and-career-ladders/)
