@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://timogin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jpease
 github_username:  jpease
+google_analytics: G-EWVZ67NCZ0
 
 # Build settings
 theme: minima
@@ -33,9 +34,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap 
   - jekyll-github-metadata
-
-minima:
-  google_analytics: G-EWVZ67NCZ0
 
 # Exclude from processing.
 # The following items will not be processed, by default.
