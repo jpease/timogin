@@ -34,9 +34,9 @@ can be objectively measured. If not, bias can sway our judgment or give others
 the impression of it. Whether the bias is real or not, the effects can be 
 equally damaging.
 
-Schedule regular reviews of job descriptions to maintain accuracy. When job 
-descriptions drift out of alignment with reality it leads to anxiety, confusion, 
-and/or indifference.
+I find it useful to schedule regular reviews of job descriptions to maintain 
+their accuracy. When job descriptions drift out of alignment with reality it 
+can lead to anxiety, confusion, and/or indifference.
 
 ## Examples
 * [GitLab Handbook](https://about.gitlab.com/job-families/finance/corporate-controller/){:target="\_blank"}  
