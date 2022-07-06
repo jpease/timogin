@@ -13,7 +13,6 @@ byline: false
 
 ### 2. Bringing people in
 * [Job descriptions](/manual/in/job-descriptions/)
-* [Titles and career ladders](/manual/in/titles-and-career-ladders/)
 * [Interviewing](/manual/in/interviewing/)
   * [Initial screen](/manual/in/screen)
   * Job specific
@@ -23,6 +22,7 @@ byline: false
 
 ### 3. Performance Management
 * [1on1s](/manual/performance/1on1s/)
+* [Titles and career ladders](/manual/performance/titles-and-career-ladders/)
 * Monthly checklist
 * [Quarterly reviews](/manual/performance/quarterly/)
 * Giving feedback

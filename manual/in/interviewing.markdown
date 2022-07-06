@@ -71,3 +71,6 @@ conversation, while still covering the material in a consistent way.
   * [Work History]()
   * [Making Decisions]()
 
+## Related Topics
+  * [Job descriptions](/manual/in/job-descriptions/)
+

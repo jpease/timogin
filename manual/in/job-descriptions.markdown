@@ -35,5 +35,5 @@ and/or indifference.
 
 ## Related Topics
 
-  * [Titles and Career Ladders](/manual/in/titles-and-career-ladders/)
+  * [Titles and Career Ladders](/manual/performance/titles-and-career-ladders/)
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Titles and Career Ladders
-permalink: /manual/in/titles-and-career-ladders/
-breadcrumb_1_path: /manual/in/
-breadcrumb_1_title: Bringing People In
+permalink: /manual/performance/titles-and-career-ladders/
+breadcrumb_1_path: /manual/performance/
+breadcrumb_1_title: Performance Management
 ---
 
 ## The Human Element
