@@ -11,7 +11,10 @@ byline: false
 * [Intended audience](/manual/audience)
 * [What if I'm a narcissist?](/manual/narcissist)
 
-### 2. Bringing people in
+### 2. Culture
+* [Cultural values](/manual/culture/values/)
+
+### 3. Bringing people in
 * [Job descriptions](/manual/in/job-descriptions/)
 * [Interviewing](/manual/in/interviewing/)
   * [Initial screen](/manual/in/screen)
@@ -20,18 +23,19 @@ byline: false
   * Making decisions
 * Onboarding
 
-### 3. Performance Management
+### 4. Performance Management
 * [1on1s](/manual/performance/1on1s/)
 * [Titles and career ladders](/manual/performance/titles-and-career-ladders/)
 * [Monthly checklist](/manual/performance/monthly)
 * [Quarterly reviews](/manual/performance/quarterly/)
-* Giving feedback
+* [Giving feedback](/manual/performance/giving-feedback/)
+* [Goal setting](/manual/performance/goal-setting/)
 
-### 4. When People Leave 
+### 5. When People Leave 
 * Voluntary
 * Involuntary
 
-### 5. Appendices
+### 6. Appendices
 * Sample job specific questions
   * [Engineering Manager](/manual/appendices/questions/engineering-manager/)
   * Software Engineer
