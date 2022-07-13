@@ -96,6 +96,9 @@ Operational efficiency increases when information is shared, rather than
 being defensively withheld. The best form of accountability arises, motivated 
 by a sense of ownership not fear of failure.
 
+### Encourage Learning
+Inevitably things won’t go according to plan and a common reaction is to identify a root cause.  When that root cause is a human or human action the reaction all too often is one of blame or shame.  Instead embrace these events as learning opportunities and celebrate the growth that results from them.  Safety is the sum of trust, honesty, openness, and clarity and how we pick ourselves back up and bring others along. The obligation of the business is to identify, build, and sustain; celebrating these rises and the dips are instrumental to building a healthy, safe and sustaining culture.
+
 ### Clarity of purpose
 The above cultural values can create a powerful virtuous circle. However, it's
 a waste if it's not thoughtfully focused. Driving a fast car in the wrong 
