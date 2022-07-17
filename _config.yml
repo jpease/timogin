@@ -23,7 +23,7 @@ email: your-email@timogin.com
 description: >- # this means to ignore newlines until "baseurl:"
   A curated collection of humane approaches to people management.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://timogin.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://timogin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jpease
 github_username:  jpease
 google_analytics: G-EWVZ67NCZ0
