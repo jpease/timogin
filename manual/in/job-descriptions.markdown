@@ -2,8 +2,9 @@
 layout: page
 title: Job Descriptions
 permalink: /manual/in/job-descriptions/
-breadcrumb_1_path: /manual/in/
-breadcrumb_1_title: Bringing People In
+
+parent: Bringing People In
+nav_order: 1 
 ---
 
 ## The Human Element

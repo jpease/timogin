@@ -3,8 +3,8 @@ layout: page
 title: The 1on1
 permalink: /manual/performance/1on1s/
 
-breadcrumb_1_path: /manual/performance/
-breadcrumb_1_title: Performance
+parent: Performance Management
+nav_order: 1
 ---
 
 ## The Human Element

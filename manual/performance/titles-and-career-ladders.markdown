@@ -2,8 +2,9 @@
 layout: page
 title: Titles and Career Ladders
 permalink: /manual/performance/titles-and-career-ladders/
-breadcrumb_1_path: /manual/performance/
-breadcrumb_1_title: Performance Management
+
+parent: Performance Management
+nav_order: 2
 ---
 
 ## The Human Element

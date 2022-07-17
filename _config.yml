@@ -29,11 +29,14 @@ github_username:  jpease
 google_analytics: G-EWVZ67NCZ0
 
 # Build settings
-theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-sitemap 
   - jekyll-github-metadata
+
+# Just the Docs configuration
+ga_tracking: G-EWVZ67NCZ0
 
 # Exclude from processing.
 # The following items will not be processed, by default.

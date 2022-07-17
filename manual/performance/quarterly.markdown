@@ -3,8 +3,8 @@ layout: page
 title: The Quarterly Review
 permalink: /manual/performance/quarterly/
 
-breadcrumb_1_path: /manual/performance/
-breadcrumb_1_title: Performance
+parent: Performance Management
+nav_order: 4
 ---
 
 ## The Human Element

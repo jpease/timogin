@@ -2,6 +2,9 @@
 layout: page
 title: What if I'm a narcissist?
 permalink: /manual/narcissist/
+
+parent: Introduction
+nav_order: 2
 ---
 
 We don't all see eye to eye. Perhaps the humane treatment of others doesn't 

@@ -3,10 +3,9 @@ layout: page
 title: Manager Screen
 permalink: /manual/in/screen/
 
-breadcrumb_1_path: /manual/in/
-breadcrumb_1_title: Bringing People In
-breadcrumb_2_path: /manual/in/interviewing/
-breadcrumb_2_title: Interviewing
+grand_parent: Bringing People In
+parent: Interviewing
+nav_order: 1
 ---
 
 ## The Human Element

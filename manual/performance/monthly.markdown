@@ -2,8 +2,9 @@
 layout: page
 title: The Monthly Checklist
 permalink: /manual/performance/monthly/
-breadcrumb_1_path: /manual/performance/
-breadcrumb_1_title: Performance Management
+
+parent: Performance Management
+nav_order: 3
 ---
 
 ## The Human Element

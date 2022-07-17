@@ -2,6 +2,9 @@
 layout: page
 title: Intendend Audience
 permalink: /manual/audience/
+
+parent: Introduction
+nav_order: 1
 ---
 
 This manual is compiled for those of us that are responsible for managing other

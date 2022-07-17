@@ -2,12 +2,10 @@
 layout: page
 title: Cultural values
 permalink: /manual/culture/values/
-breadcrumb_1_path: /manual/culture/
-breadcrumb_1_title: Culture
----
 
-**Culture is perhaps the single most powerful lever when it comes to performance
-management.**
+parent: Culture
+nav_order: 1
+---
 
 ## The Human Element
 The instinct of self-preservation runs strong and deep. When a person's brain 
@@ -35,7 +33,7 @@ culture where people feel safe to do their best work.
 
 ## A Humane Approach
 If I had to distill the task of creating a safe environment down to one word,
-that word would be Trust.
+that word would be **Trust**.
 
 What follows are some key areas where we can promote trust. For maximum effect,
 we need to consistently practice these ourselves and also develop them in our 

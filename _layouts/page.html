@@ -1,16 +1,7 @@
 ---
 layout: default
 ---
-<article class="post">
+    <h1>{{ page.title | escape }}</h1>
+    <span id='last-updated'/>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-    {%- include breadcrumbs.html -%}
-    {%- include byline.html -%}
-  </header>
-
-  <div class="post-content">
     {{ content }}
-  </div>
-
-</article>

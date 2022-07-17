@@ -2,7 +2,9 @@
 layout: home
 title: Management is challenging.
 list_title: Blog Posts
+nav_exclude: true
 ---
+# Management is challenging.
 
 ## Do you know what makes it easier?
 
@@ -12,4 +14,4 @@ generally applicable. By sharing we all improve. In pursuit of that goal,
 to common management concerns**. 
 
 Do you know a thing or two about managing people with dignity and respect? 
-Please feel welcome [to contribute]() and help us all become better.
+Please feel welcome [to contribute](https://github.com/jpease/timogin/) and help us all become better.
