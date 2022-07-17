@@ -2,6 +2,6 @@
 layout: default
 ---
     <h1>{{ page.title | escape }}</h1>
-    <span id='last-updated'/>
+    <span onload="setModifiedDate();" id='last-updated'/>
 
     {{ content }}
