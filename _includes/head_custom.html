@@ -8,11 +8,13 @@
           .then((commits) => {
             var modified = commits[0]['commit']['committer']['date'].slice(0,10);
             if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-              document.getElementById('last-updated').textContent = "Updated: " + modified;
+              var formatted = new Date(modified).toLocaleDateString('en-US', { year: "numeric", month: "long", day: "numeric" });
+              document.getElementById('last-updated').textContent = "Updated: " + formatted;
             }
           });
       }
     }
   //   setModifiedDate by Ryan Baumann (https://ryanfb.github.io/etc/2020/04/27/last_modified_dates_for_github_pages_jekyll_posts.html)
   //   Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+  //   With a few adjustments by Justin Pease
   </script>
