@@ -87,12 +87,6 @@ practice is to conclude the conversation with an explanation of what
 the rest of the interview process will look like, who will be contacting
 them, and when they should expect to hear from them.
 
-## See Also
-
-  * Interviewing > [Job Specific]()
-  * Interviewing > [Work History]()
-  * Interviewing > [Making Decisions]()
-
 ## Concerns about discussing salary
 **Isn't discussing salary uncomfortable?**  
 It doesn't have to be. People know salary is going to come up. If you're 
@@ -109,5 +103,3 @@ problem later.
 A good way to proactively avoid problems is to clearly communicate how you
 position people within your salary bands. Yes, this means you need to have
 that well defined and follow it.
-
-
