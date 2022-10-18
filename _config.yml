@@ -30,7 +30,8 @@ google_analytics: G-EWVZ67NCZ0
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
-  #theme: just-the-docs
+color_scheme: light
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap 
@@ -38,6 +39,25 @@ plugins:
 
 # Just the Docs configuration
 ga_tracking: G-EWVZ67NCZ0
+
+callouts_level: quiet # or loud
+callouts:
+  quote:
+    color: grey-lt
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: yellow
+  tip:
+    title: Tip
+    color: green
+  note:
+    title: Note
+    color: blue
+  caution:
+    title: Caution
+    color: red
 
 # Exclude from processing.
 # The following items will not be processed, by default.
