@@ -5,15 +5,16 @@ permalink: /manual/in/work-history/
 
 grand_parent: Bringing People In
 parent: Interviewing
-nav_order: 2
+nav_order: 3
 ---
 
 ## The Human Element
-The purpose of this conversation is to get to know the candidate better as a
-person. The questions are open-ended and do not have right or wrong answers. 
 
+The purpose of this conversation is to get to know the candidate better as a
+person. The questions are open-ended and do not have right or wrong answers.
 
 ## The Business Obligation
+
 We're approaching the point in the process where we need to make decisions. In
 most cases this is the final interview. Our obligation to the company is to make
 good hiring decisions. I want to leave this interview with the answers to these
