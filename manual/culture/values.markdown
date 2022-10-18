@@ -39,7 +39,8 @@ What follows are some key areas where we can promote trust. For maximum effect,
 we need to consistently practice these ourselves and also develop them in our 
 team.
 
-**Note**: [You can approach these as mental tricks](/manual/narcissist/), 
+{: .note}
+[You can approach these as mental tricks](/manual/narcissist/), 
 however, that is not recommended. Many people are quite alert to insincerity 
 and, once detected, will raise a mental alarm which renders the ruse a waste.
 

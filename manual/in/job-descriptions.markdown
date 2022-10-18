@@ -34,12 +34,14 @@ To set all involved up for success a job description should include:
 4. What is the person responsible for doing? (Think both hard & soft skills)
 5. How will performance be evaluated?
 
-**Caution**: It's important that points 2 and 4 above are defined in a way that
+{: .caution}
+It's important that points 2 and 4 above are defined in a way that
 can be objectively measured. If not, bias can sway our judgment or give others
 the impression of it. Whether the bias is real or not, the effects can be
 equally damaging.
 
-**Tip**: I find it useful to schedule regular reviews of job descriptions to
+{: .tip}
+I find it useful to schedule regular reviews of job descriptions to
 maintain their accuracy. When job descriptions drift out of alignment with
 reality it can lead to anxiety, confusion, and/or indifference.
 

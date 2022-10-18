@@ -14,8 +14,8 @@ people on your team need support too.
 
 ## The Business Obligation
 A successful business is made of strong teams. Strong teams are made of well
-supported individuals. A business is right to expect that managers are aware of 
-how staff are performing and that managers are actively working to make staff 
+supported individuals. A business is right to expect that managers are aware of
+how staff are performing and that managers are actively working to make staff
 successful.
 
 ## A Humane Approach
@@ -24,32 +24,32 @@ cases, it will vary from week to week.
 
 ### Building Trust
 For 1on1s to be effective we need to build an environment of trust. I've found
-two of the most important things we can do are to **genuinely listen** and 
+two of the most important things we can do are to **genuinely listen** and
 **reliably follow through** on any action items you take on.
 
-In addition, a technique I've used is keeping shared notes. My direct reports 
-can see exactly what I write down about our conversation. I also encourage them 
-to take note of anything they'd like to talk about that they think of between 
+In addition, a technique I've used is keeping shared notes. My direct reports
+can see exactly what I write down about our conversation. I also encourage them
+to take note of anything they'd like to talk about that they think of between
 1on1s. This helps us both come to the conversation prepared to get the most out
 of it.
 
 ### The Standard Questions
 
-**How are you doing?** A simple question that is an excellent low-pressure way to 
+**How are you doing?** A simple question that is an excellent low-pressure way to
 start a 1on1. But where do you go next? Here are three more that I find worth
-including on a weekly basis. 
+including on a weekly basis.
 
 * Is there anything you would like to talk about?
 * How can I help?
 * Do you have any questions for me?
 
 What makes the above questions so useful is their open-endedness. It provides
-us an opportunity to find out what is on the mind of the other person. **Be 
+us an opportunity to find out what is on the mind of the other person. **Be
 sure to listen attentively.**
 
 ### The Extra Questions
 The following questions may not be necessary on a weekly basis, but I've found
-them valuable to keep a pulse on staff and teams. 
+them valuable to keep a pulse on staff and teams.
 
 * Do you know and understand the team's current obligations and priorities?
 * Do you feel there are any blockers preventing you or the team from doing
@@ -61,19 +61,20 @@ their best work?
   * Does anyone need any extra support?
   * Has anyone been especially helpful?
 
-**Tip:** Questions that make you feel nervous about the answer you may get are 
-often the most important to ask.
+{: .tip}
+Questions that make you feel nervous about the answer you may get are often the
+most important ones to ask.
 
 ### Coaching
-For some things in life, showing up is enough. Coaching is not one of those 
-things. To help a person realize positive change requires forethought and 
+For some things in life, showing up is enough. Coaching is not one of those
+things. To help a person realize positive change requires forethought and
 preparation specific to the individual.
 
-While the 1on1 isn't the only tool at our disposal to promote staff 
+While the 1on1 isn't the only tool at our disposal to promote staff
 development, its regularity does make it one we shouldn't overlook.
 
-One way to think about coaching is development that involves their goals, your 
-goals, and performance issues. At times two or more of these may overlap, but 
+One way to think about coaching is development that involves their goals, your
+goals, and performance issues. At times two or more of these may overlap, but
 not always.
 
 Here are some questions that can help us prepare.
@@ -97,20 +98,14 @@ Here are some questions that can help us prepare.
 * Does the person have the resources available to make those changes?
   * Does the person know those resources are available?
 
-**See Also:** 
-* Elements of professional growth
-* Helping staff set goals
-* How to give effective feedback
-
-
-### Frequency 
+### Frequency
 * **Direct Reports**  
-I strongly recommend a weekly 1on1 for all direct reports. If you find a weekly 
+I strongly recommend a weekly 1on1 for all direct reports. If you find a weekly
 schedule seems too much, that tends to indicate either too many direct reports
 or misguided priorities.
 
 * **Skip Levels**  
-The frequency of these will be largely dictated by the number of staff in the 
+The frequency of these will be largely dictated by the number of staff in the
 team, department, or organization that you are responsible for. The advice I'd
 offer is to schedule time each week to hold a few of these. I find these are an
 important tool to keep a holistic viewpoint.
@@ -128,6 +123,3 @@ working on.
 There is no need to keep a 1on1 strictly business. In fact, discussing topics
 unrelated to work is a great idea. The risk is when those topics overshadow, or
 even cause the exclusion of, the important topics highlighted above.
-
-## Related Content
-* [Why are you rescheduling 1on1s?](/blog/2022/06/09/Why-Are-You-Rescheduling-1on1s)
