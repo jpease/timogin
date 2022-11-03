@@ -27,17 +27,17 @@ everything on track.
 ## A Humane Approach
 Here are the questions that I've used to keep a pulse on staff:
 
-* Are they meeting expectations?
-
+* Are they meeting expectations?  
+&nbsp;  
 * If they are not meeting expectations:
   * Can you clearly explain how they are not meeting expectations?
   * Can you clearly explain why they are not meeting expectations?
   * Do you believe they can be helped to meet expectations?
-    * If so, is there a plan in place and what is its status?
-
+    * If so, is there a plan in place and what is its status?  
+&nbsp;  
 * If they are exceeding expectations:
   * Do they qualify for a salary or [role adjustment](/manual/performance/titles-and-career-ladders/)?
   * What is contributing towards their exceeding expectations?
-    * Are there lessons that could be applied to help others excel?
-
+    * Are there lessons that could be applied to help others excel?  
+&nbsp;  
 * Are they on the best team or project based on their abilities and goals?
