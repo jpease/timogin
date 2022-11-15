@@ -24,7 +24,8 @@ forms the basis for discussing performance and role changes.
 ## A Humane Approach
 
 Keep your descriptions clear and concise. Identify how this role differs from
-similar roles (e.g. junior level vs senior level).
+similar roles (e.g. junior level vs senior level). This is tightly related to
+defining [titles and career ladders](/manual/performance/titles-and-career-ladders/).
 
 To set all involved up for success a job description should include:
 
@@ -41,18 +42,15 @@ the impression of it. Whether the bias is real or not, the effects can be
 equally damaging.
 
 {: .tip}
-I find it useful to schedule regular reviews of job descriptions to
-maintain their accuracy. When job descriptions drift out of alignment with
-reality it can lead to anxiety, confusion, and/or indifference.
+I find it useful to schedule regular reviews of job descriptions to maintain
+their accuracy. When job descriptions drift out of alignment with reality it
+can lead to anxiety, confusion, and/or indifference.
 
 ## Examples
 
 * [GitLab Handbook](https://about.gitlab.com/job-families/finance/corporate-controller/){:target="\_blank"}  
   While I linked to the Corporate Controller suite of roles, many others can be
-  found here.  
-
-* [CareerLadders.dev](https://career-ladders.dev){:target="\_blank"}  
-  These are most applicable to companies with technical roles.
+  found here.
 
 ## Related Topics
 
