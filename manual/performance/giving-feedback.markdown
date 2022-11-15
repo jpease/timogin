@@ -69,7 +69,7 @@ information.
 *This is not good feedback. It is specific but not actionable. Because it is not
 actionable it will likely be perceived as an unkind criticism.*
 
-* "I like how you provided examples. It made it easier to understand the point.
+* "I like how you included examples. It made it easier to understand the point.
 If you looked for other places to include examples, it would make your writing
 even better."  
 *This is good feedback. It is specific and actionable.*
@@ -78,26 +78,27 @@ even better."
 How would you feel if someone told you there was sauce on your face... a week
 after the fact?
 
-We provide people the greatest opportunity to benefit from feedback when we
-provide it promptly. This doesn't mean blurting it out at an inopportune time
-(see "3. Know the person"). It does mean that we'll give feedback while the
-context is still fresh in their mind and ours. Delay quickly reduces feedback's
-power.
+Feedback is more likely to be beneficial when delivered promptly. This doesn't
+mean blurting it out at an inopportune time (see points [3](#3-know-the-person)
+and [6](#6-seek-permission)). It does mean that we'll give feedback while the
+context is still fresh in their mind and ours.
+
+Delay quickly erodes feedback's power.
 
 ### 6. Seek permission
-As a manager, we may have to give feedback even when someone doesn't want to
-hear it. Nevertheless, asking "May I give you some feedback?" can help prepare
-the person for what we're about to say. In some cases, they may share that they
-are not in a good mental state to benefit from feedback. Remembering our goal,
-it will often be best to reschedule for a time better for them.
+At times we have to give feedback even when someone doesn't want to hear it.
+Nevertheless, asking "May I give you some feedback?" can help prepare the person
+for what we're about to say. In some cases, they may share that they are not in
+a good mental state to benefit from feedback. Remembering our goal, it will
+often be best to reschedule at a time better for them.
 
 ### 7. Follow up
 When it comes to wiping the sauce from my face, sometimes it takes a bit of
-back and forth. Did I get it? How about now? Similarly, our initial feedback
-will often require follow up to achieve the desired outcome. Our genuine
-interest in the person's success is shown by following through with them.
+back and forth. Did I get it? How about now?
 
-
+Similarly, our initial feedback will often require follow up to achieve the
+desired outcome. Our genuine interest in the person's success is shown by
+following through with them.
 
 ## Related Topics
   * [1on1s](/manual/performance/1on1s/)
