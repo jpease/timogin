@@ -4,7 +4,7 @@ title: The Quarterly Review
 permalink: /manual/performance/quarterly/
 
 parent: Performance Management
-nav_order: 4
+nav_order: 7
 ---
 
 ## The Human Element

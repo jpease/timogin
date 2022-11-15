@@ -4,7 +4,7 @@ title: The 1on1
 permalink: /manual/performance/1on1s/
 
 parent: Performance Management
-nav_order: 1
+nav_order: 5
 ---
 
 ## The Human Element
@@ -35,8 +35,8 @@ of it.
 
 ### The Standard Questions
 
-**How are you doing?** A simple question that is an excellent low-pressure way to
-start a 1on1. But where do you go next? Here are three more that I find worth
+**How are you doing?** A simple question that is an excellent low-pressure way
+to start a 1on1. But where do you go next? Here are three more that I find worth
 including on a weekly basis.
 
 * Is there anything you would like to talk about?
@@ -113,7 +113,7 @@ important tool to keep a holistic viewpoint.
 
 ### The Pitfalls
 Here are some traps to be aware of that, if we fall into, largely defeat
-the purpose of the 1on1 and leave us with critical blindspots.
+the purpose of the 1on1 and leave us with critical blind spots.
 
 1. **The Status Report**  
 You (hopefully) have other ways of learning the status of tasks the person is

@@ -4,20 +4,20 @@ title: The Monthly Checklist
 permalink: /manual/performance/monthly/
 
 parent: Performance Management
-nav_order: 3
+nav_order: 6
 ---
 
 ## The Human Element
-When good work goes unrecognized, it's demoralizing to the individual. When 
-problems are not handled, it's demoralizing to the team. Everyone is better 
-off when developments, positive or negative, are identified and responded to 
+When good work goes unrecognized, it's demoralizing to the individual. When
+problems are not handled, it's demoralizing to the team. Everyone is better
+off when developments, positive or negative, are identified and responded to
 sooner than later.
 
 ## The Business Obligation
 There is a saying I like, A short pencil is better than a long memory. You're
-probably busy. Our days can become filled with unexpected issues that require 
-immediate attention. Despite the best of intentions, performance evaluations 
-that don't seem urgent can slip through the cracks. It's our responsibility to 
+probably busy. Our days can become filled with unexpected issues that require
+immediate attention. Despite the best of intentions, performance evaluations
+that don't seem urgent can slip through the cracks. It's our responsibility to
 make sure that doesn't happen.
 
 That's where the pencil comes in. In addition to taking note of things that
