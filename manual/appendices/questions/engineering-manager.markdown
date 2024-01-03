@@ -14,6 +14,9 @@ nav_order: 1
 Our goal with these open-ended questions is to engage the candidate in a
 conversation that will help us to better understand how they think.
 
+* Have you conducted interviews as part of a hiring process before?
+  * If so, do you have a favorite question to ask candidates?
+
 * What do you think makes a good manager?
 
 * If being a good manager involves helping your team to be successful, how do
