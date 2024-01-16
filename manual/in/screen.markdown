@@ -51,17 +51,22 @@ it.*
 *Do their desires align with what the role is likely to offer? If a match
 doesn't seem obvious, follow up questions are better than assumptions.*
 
-    **Question Break**  
-    I find this a good point to pause and ask myself, How are things going?
+5. **Tell me about a difficult time in your life, professional or personal. How
+did you get through it and what did you learn?**  
 
-    If the person is obviously not a fit for the role, politely thank them for
-    their time and bring the call to a close.
+    {: .note-title }
+    >   **Question Break**
+    >
+    >   I find this a good point to pause and ask myself, How are things going?
+    >
+    >   If the person is obviously not a fit for the role, politely thank them for
+    >   their time and bring the call to a close.
+    >
+    >   Otherwise, based on what you've learned thus far, take a few moments to
+    >   share with the candidate why you think they might be excited about the role
+    >   and the company.
 
-    Otherwise, based on what you've learned thus far, take a few moments to
-    share with the candidate why you think they might be excited about the role
-    and the company.
-
-5. **What made you decide to look for a new job now?**  
+6. **What made you decide to look for a new job now?**  
 *Are they still employed? Were they laid off? If they were let go with cause
 (a.k.a. fired), don't write them off. We probably all know of some good people
 who were fired for reasons that shouldn't prevent them from being considered.
@@ -69,10 +74,10 @@ Are they willing to share why they were let go? The rest of the interview
 process along with reference checks should seek to identify whether there is
 reason for concern.*
 
-6. **Are you in late stage conversations with any other companies that will
+7. **Are you in late stage conversations with any other companies that will
 require us to finish our interview process before a certain date?**  
 
-7. **The salary band for this role is [minimum] to [maximum]. So that we don't
+8. **The salary band for this role is [minimum] to [maximum]. So that we don't
 waste your time, are your expectations within that range?**  
 *Salary should be discussed from the outset. Everyone's time is wasted if
 a process moves to an offer only to find that expectations are vastly out
@@ -81,7 +86,7 @@ Resources/People Operations. In other cases the hiring manager will discuss.
 The purpose of this discussion is not to negotiate salary. It's far too early
 for either party to commit to a specific number.*
 
-8. **Explain next steps**  
+9. **Explain next steps**  
 Naturally people are going to want to know what to expect next. A good
 practice is to conclude the conversation with an explanation of what
 the rest of the interview process will look like, who will be contacting
