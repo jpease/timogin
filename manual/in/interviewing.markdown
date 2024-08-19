@@ -33,7 +33,7 @@ want them to be good at it, that will require coaching.
 {: .note-title }
 > For your consideration
 >
-> Is interviewing well, as a skill, key to the day-to-day success of the role?
+> Is the skill of interviewing well key to the day-to-day success of the role?
 > If not, are the outcomes of your process overly influenced by that ability?
 > How could you tailor it to instead focus on what will make the most difference
 > in the long-term value of the hire?
