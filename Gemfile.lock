@@ -215,7 +215,7 @@ GEM
       gemoji (>= 3, < 5)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    json (2.7.5)
+    json (2.7.6)
     just-the-docs (0.10.0)
       jekyll (>= 3.8.5)
       jekyll-include-cache
@@ -275,7 +275,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (0.13.1)
-    webrick (1.8.2)
+    webrick (1.9.0)
 
 PLATFORMS
   arm64-darwin-23
