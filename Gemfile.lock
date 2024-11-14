@@ -291,10 +291,10 @@ DEPENDENCIES
   jekyll-sitemap
   just-the-docs
   minima (~> 2.5)
-  tzinfo (>= 1.2.10)
+  tzinfo (>= 2.0)
   tzinfo-data
-  wdm (~> 0.1.1)
-  webrick (~> 1.7)
+  wdm (~> 0.2)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.5.22
